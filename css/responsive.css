@@ -71,6 +71,12 @@ float : left;
 }
 }
 @media (max-width:767px) {
+#slider_sec{
+	height: 200px !important;
+}
+.article{
+	margin-bottom: 10px;
+}
 .container {
 width : 300px;
 }

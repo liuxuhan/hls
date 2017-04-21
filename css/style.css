@@ -161,6 +161,11 @@ background-size : cover;
 min-height : 500px;
 }
 #abt_sec {
+	background: #f0f0f0;
+padding : 70px 0;
+
+}
+#hiw_sec {
 padding : 70px 0;
 }
 .happy_use {
