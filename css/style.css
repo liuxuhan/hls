@@ -161,9 +161,21 @@ background-size : cover;
 min-height : 500px;
 }
 #abt_sec {
-	background: #f0f0f0;
+background: #f0f0f0;
 padding : 70px 0;
-
+}
+#abt_sec div.problems{
+	margin-top: 20px;
+}
+#abt_sec div.problem{
+	    text-align: -webkit-center;
+}
+#abt_sec div.problem img{
+	border-radius: 10%
+}
+#abt_sec div.problem p{
+	font-size: 18px;
+	margin-top: 10px;
 }
 #hiw_sec {
 padding : 70px 0;
