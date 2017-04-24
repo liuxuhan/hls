@@ -12,7 +12,7 @@ letter-spacing : 1px;
 body h1, h2, h3, h4, h5, h6 {
 color : #141414;
 font-family : "Lato","Microsoft YaHei", sans-serif;
-font-size : 22px;
+font-size : 25px;
 text-transform : capitalize;
 font-weight : 800;
 text-transform : uppercase;
@@ -162,7 +162,7 @@ min-height : 500px;
 }
 #abt_sec {
 background: #f0f0f0;
-padding : 70px 0;
+padding : 60px 0;
 }
 #abt_sec div.problems{
 	margin-top: 20px;
@@ -178,7 +178,19 @@ padding : 70px 0;
 	margin-top: 10px;
 }
 #hiw_sec {
-padding : 70px 0;
+padding : 60px 0;
+}
+#hiw_sec h4{
+font-size: 130%;
+}
+#hiw_sec div.step-container {
+text-align: -webkit-center;
+}
+
+#hiw_sec img.step {
+height: 150px;
+width: 150px;
+border-radius: 50%;
 }
 .happy_use {
 float : right;
@@ -204,7 +216,7 @@ margin-top : 19px;
 width : 76px;
 }
 #pricing_sec {
-padding : 70px 0;
+padding : 60px 0;
 }
 .title_sec {
 margin : 0 auto;
@@ -418,7 +430,7 @@ background-color : #00AFF0;
 }
 #counting_sec {
 background : none 0 0 repeat scroll #f0f0f0;
-padding : 90px 0;
+padding : 60px 0;
 }
 .counting_sl h3 {
 color : #515050;
@@ -438,8 +450,15 @@ color : #515050;
 float : left;
 font-size : 35px;
 }
+.counting_sl .counter {
+display: inline
+}
+.counting_sl .unit {
+display: inline;
+margin-left: 8px;
+}
 #pr_sec {
-padding : 70px 0;
+padding : 60px 0;
 }
 .service {
 
@@ -492,10 +511,10 @@ top : -50px;
 }
 #protfolio_sec {
 background : none 0 0 repeat scroll #f0f0f0;
-padding : 70px 0;
+padding : 60px 0;
 }
 #tm_sec {
-padding : 70px 0;
+padding : 60px 0;
 }
 .sngl_team h3 {
 font-size : 14px;
@@ -724,7 +743,7 @@ margin-top : 30px;
 #clt_sec {
 /*background : #F0F0F0;*/
 background: white;
-padding : 70px 0;
+padding : 60px 0;
 }
 .owl-item .sngl_clt a {
 text-align : left;
@@ -742,7 +761,7 @@ display : none;
 }
 #ctn_sec {
 	background : #F0F0F0;
-padding : 70px 0;
+padding : 60px 0;
 }
 #cnt_form .btn {
 background : #353638;
@@ -818,7 +837,7 @@ text-transform : uppercase;
 display: inline-block;
 }
 #ft_sec {
-padding : 70px 0;
+padding : 60px 0;
 }
 .copy_right {
 margin : 0;
@@ -848,7 +867,7 @@ color : #3399FF;
 margin-left : 15px;
 }
 #blg_sec {
-padding : 100px 0;
+padding : 60px 0;
 }
 .main_menu_sec {
 background : none 0 0 repeat scroll #353638;
