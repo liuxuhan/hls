@@ -166,9 +166,13 @@ padding : 60px 0;
 }
 #abt_sec div.problems{
 	margin-top: 20px;
+	text-align: -webkit-center;
+}
+#abt_sec div.problems p.text1{
+	font-size: 20px;
 }
 #abt_sec div.problem{
-	    text-align: -webkit-center;
+text-align: -webkit-center;
 }
 #abt_sec div.problem img{
 	border-radius: 10%
@@ -375,7 +379,7 @@ background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../i
 background-position : center center;
 background-repeat : no-repeat;
 background-size : cover;
-height : 600px;
+height : 500px;
 width : 100%;
 }
 .left_crousel_btn, .right_crousel_btn {
@@ -393,10 +397,17 @@ font-family : lato;
 font-size : 60px;
 text-transform : capitalize;
 color : #fff;
+margin-bottom: 30px;
+}
+.caption_carousel h1 span{
+font-size: 80px;
+color: orange;
+word-spacing: 10px;
 }
 .caption_carousel p {
+
 font-family : lato;
-font-size : 14px;
+font-size : 24px;
 color : #f6f6f6;
 border-top : 1px solid #fff;
 border-bottom : 1px solid #fff;
