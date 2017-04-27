@@ -721,7 +721,7 @@ background-size : 100% 100%;
 .sngl_pricing > h3 {
 background : none 0 0 repeat scroll #ebebeb;
 color : #515050;
-font-size : 48px;
+font-size : 30px;
 margin : 0;
 padding : 20px 0;
 }
@@ -731,7 +731,7 @@ position : relative;
 top : -18px;
 }
 .monuth {
-font-size : 24px;
+font-size : 20px;
 text-transform : none;
 }
 .btn.pricing_btn {
